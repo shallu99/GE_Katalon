@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Scn</description>
+   <name>PT_Login</name>
+   <tag>PT_User</tag>
+   <comment></comment>
+   <testCaseGuid>c30d61f5-148b-4c7f-a090-a41b865ee4df</testCaseGuid>
+</TestCaseEntity>
