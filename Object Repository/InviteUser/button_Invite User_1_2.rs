@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Invite User_1_2</name>
+   <tag></tag>
+   <elementGuidId>66232c0c-5ae7-4595-947f-0ae96d73c74a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[22]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>57ea7c71-a39a-42b5-8995-cacd50d63df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1ujsas3</value>
+      <webElementGuid>7b952e9f-3bea-437e-8145-40474e28f94a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>51b31902-8501-4479-9bd6-c4a81db7fc39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ee84241f-0560-4604-abf4-34cbaa2ecbed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invite User</value>
+      <webElementGuid>8ecef1b6-e5da-4144-a561-6246ce52fe22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mui-p-13395-P-1&quot;)/div[1]/div[@class=&quot;MuiDialogActions-root MuiDialogActions-spacing css-hlj6pa-MuiDialogActions-root&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1ujsas3&quot;]</value>
+      <webElementGuid>3c5bed08-c0f9-484b-bd0c-9e67b4df277d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[22]</value>
+      <webElementGuid>1ae8c076-48f5-444e-95fb-ed08df5d3bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mui-p-13395-P-1']/div/div[2]/button[2]</value>
+      <webElementGuid>b69a1524-f1a5-4b80-930a-ca3208ecfdb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>1f8f5efd-1357-482d-b886-78b224621625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[7]/following::button[2]</value>
+      <webElementGuid>51b4bd75-4910-4bc9-bf38-e8236b73070c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>2ca69eca-8ade-4aa6-857b-9057196c718c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Invite User' or . = 'Invite User')]</value>
+      <webElementGuid>252eaef7-d63c-4127-9923-7425d7d69850</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

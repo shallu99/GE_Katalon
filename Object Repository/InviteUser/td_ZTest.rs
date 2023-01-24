@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_ZTest</name>
+   <tag></tag>
+   <elementGuidId>77d5ec82-02cb-4c33-92cf-fbba50d04b65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='simple-tabpanel-0']/div/p/div/div[2]/div/div/div/table/tbody/tr[7]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9a43911a-2c1e-47c5-9690-372261fcb01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeSmall TDataCell md-5 css-13uwly5</value>
+      <webElementGuid>489a4bff-9bf8-422a-81fe-00c751902aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ZTest</value>
+      <webElementGuid>8fbdb3f4-f195-4046-afd1-a5a1da1868f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;simple-tabpanel-0&quot;)/div[@class=&quot;MuiBox-root css-mez6zq&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root&quot;]/div[@class=&quot;automated&quot;]/div[@class=&quot;customGrid MuiBox-root css-0&quot;]/div[@class=&quot;custom-table MuiBox-root css-8atqhb&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-1pty0ct&quot;]/div[@class=&quot;MuiTableContainer-root css-17ca4z6&quot;]/table[@class=&quot;MuiTable-root MuiTable-stickyHeader css-3tzftu&quot;]/tbody[@class=&quot;MuiTableBody-root css-1xnox0e&quot;]/tr[@class=&quot;MuiTableRow-root MuiTableRow-hover css-1gqug66&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeSmall TDataCell md-5 css-13uwly5&quot;]</value>
+      <webElementGuid>6f04922d-9b87-4e79-aaee-bbbf1aace437</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='simple-tabpanel-0']/div/p/div/div[2]/div/div/div/table/tbody/tr[7]/td</value>
+      <webElementGuid>ba1eb66f-52bf-49c1-a967-9ed9fd6168eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[6]/following::td[2]</value>
+      <webElementGuid>7f70475c-947e-4768-987f-5938ae09faa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tester'])[4]/following::td[4]</value>
+      <webElementGuid>a1a7131c-af8e-4b29-b9d9-c300aeb63600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ztest@gmail.com'])[1]/preceding::td[2]</value>
+      <webElementGuid>a1ca4455-75aa-4833-9363-1022d10c8d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[2]/preceding::td[3]</value>
+      <webElementGuid>128d71aa-6263-476c-8db0-d83d623fee56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ZTest']/parent::*</value>
+      <webElementGuid>5f8526b0-e14c-4742-a514-c3fe545c5968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td</value>
+      <webElementGuid>bb99063c-9949-44b1-8e5c-1bee81ae6147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'ZTest' or . = 'ZTest')]</value>
+      <webElementGuid>4a95f7b9-8f1e-4fe7-8f63-9fcdd8c45f1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

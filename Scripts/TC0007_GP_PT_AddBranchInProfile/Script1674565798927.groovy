@@ -21,26 +21,34 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://staging.peppertree.ai/')
 
-WebUI.maximizeWindow()
+WebUI.setText(findTestObject('Object Repository/AddBranch/input_Sign Up_r0'), 'uthukpnt@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/Page_NachPay/input_Sign Up_r0'), 'uthukpnt@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_NachPay/input__MuiInputBase-input MuiOutlinedInput-_047092'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/AddBranch/input__MuiInputBase-input MuiOutlinedInput-_047092'), 
     'QWaBvTLiu9ZovX8NOeYSWg==')
 
-WebUI.click(findTestObject('Object Repository/Page_NachPay/div_Continue'))
+WebUI.click(findTestObject('Object Repository/AddBranch/div_Continue'))
 
-WebUI.click(findTestObject('Object Repository/Page_NachPay/img_Treds_navlogo'))
+WebUI.click(findTestObject('Object Repository/AddBranch/svg_UTH_MuiSvgIcon-root MuiSvgIcon-fontSize_e12007'))
 
-//WebUI.click(findTestObject('Object Repository/Page_NachPay/div_UTH'))
+WebUI.click(findTestObject('Object Repository/AddBranch/div_UTH'))
 
-WebUI.click(findTestObject('Object Repository/Page_NachPay/div_User Management_MuiBackdrop-root MuiBac_c12ba8'))
+WebUI.click(findTestObject('Object Repository/AddBranch/p_Add Branch'))
 
-WebUI.click(findTestObject('Object Repository/Page_NachPay/img_Invite_MuiAvatar-img css-1hy9t21'))
+WebUI.setText(findTestObject('Object Repository/AddBranch/input_Branches_branchName'), ' Sub')
 
-WebUI.click(findTestObject('Object Repository/Page_NachPay/path'))
+WebUI.setText(findTestObject('Object Repository/AddBranch/input__gstin'), '29AABCU9603R1ZJ')
 
-WebUI.click(findTestObject('Object Repository/Page_NachPay/button_Yes'))
+WebUI.setText(findTestObject('Object Repository/AddBranch/input__email'), 'uth@gmail.com')
+
+WebUI.setText(findTestObject('Object Repository/AddBranch/input__contactName'), 'AA')
+
+WebUI.setText(findTestObject('Object Repository/AddBranch/input__address'), 'ABC')
+
+WebUI.setText(findTestObject('Object Repository/AddBranch/input__pin_code'), '560040')
+
+WebUI.click(findTestObject('Object Repository/AddBranch/button_Submit'))
+
+WebUI.click(findTestObject('Object Repository/AddBranch/p_1'))
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Delete_button_in_BankPage</name>
+   <tag></tag>
+   <elementGuidId>86765fb1-9419-48c2-98df-86785e7d91d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Physical-Mandate'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>294683e2-7223-40af-862e-70c09d8944fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-101fpco</value>
+      <webElementGuid>d51913d4-278f-4a02-9375-ee5b05cfc36e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>86755aa6-9d39-44b6-984d-8b747a5c6537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d2aebd44-4d39-4a0a-972e-855463a23935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>58201182-1f65-4283-ba65-137658b79b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>DeleteIcon</value>
+      <webElementGuid>118a4f0e-041e-487d-b833-06454558eb93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-hboir5&quot;]/div[@class=&quot;MuiBox-root css-1stk98t&quot;]/div[@class=&quot;MuiBox-root css-h8m1q6&quot;]/div[@class=&quot;tab-container-Box MuiBox-root css-ajghaq&quot;]/div[@class=&quot;layout-shadow MuiBox-root css-u8exd4&quot;]/div[@class=&quot;MuiBox-root css-1ycl3fc&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1ix1p7n-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-q7k1hb-MuiGrid-root&quot;]/div[@class=&quot;MuiBox-root css-bvvmvn&quot;]/form[1]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 css-uqwprf-MuiGrid-root&quot;]/div[@class=&quot;MuiBox-root css-1jpm9pd&quot;]/div[@class=&quot;MuiBox-root css-f1cu1a&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-101fpco&quot;]</value>
+      <webElementGuid>228b6357-0206-4034-bdc2-36ba2ed9d21d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Physical-Mandate'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>04d277e6-6795-4629-a13c-5febcdfd6cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create E-Mandate'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>8c80c9d2-c6bf-4a9f-a97d-22d81af5381c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add as Beneficiary'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>865fc787-b5b0-42c5-b7a9-391abf54b868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create E-Mandate'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>e32b8353-9989-48b5-8f12-37ec44a8aaf5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

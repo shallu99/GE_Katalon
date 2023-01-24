@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_Dashboard Working Capital ReceivablesP_9a4017</name>
+   <tag></tag>
+   <elementGuidId>cb4bf21e-239a-4698-a258-025e1b10ef3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>61c24f91-918e-4396-a863-8a86016be02a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard Working Capital ReceivablesPayablesSettlementsReportsInsuranceTredsBeta Version 1.0​UTH Invite17 › User Management  Invite UserCurrent UsersRequestsCompany Invites Name Mobile Email ID Role Employee Id Designation Department Status  xx+919108330747shreyank@gmail.comBranch AdmintesterActiveshreyank+914466332244shreyankm262@gmail.comUsertesterActivetest+919876543212test@gmail.comAdminTestActiveUTH PT+918553619133uthukpnt@gmail.comAdmin123456879TestersITActiveShallu+919874563211mshreyank1999@gmail.comAdmintesterActiveyy+919108770747shreyank@gmail.comAdmintesterActiveRows per page:251–6 of 6id(&quot;menu-&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible css-g3hgs1-MuiBackdrop-root-MuiModal-backdrop&quot;]UTH PTuthukpnt@gmail.com+918553619133User ManagementSign Out  UTHBank ProfileManage SubscriptionsConfirm To End Your Session? YesInvite UserInvite User BulkUser Name :​Email ID:​Branch :​​Mobile No :​+91​Designation :​CancelInvite UserMain Branch</value>
+      <webElementGuid>761fbde4-31fa-46ba-b1ee-b01a81f51b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>b200c9fb-26c6-41e1-bdff-6406f70d0d60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>155e4f4f-787a-4df3-9d16-a9fc2d188a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'Dashboard Working Capital ReceivablesPayablesSettlementsReportsInsuranceTredsBeta Version 1.0​UTH Invite17 › User Management  Invite UserCurrent UsersRequestsCompany Invites Name Mobile Email ID Role Employee Id Designation Department Status  xx+919108330747shreyank@gmail.comBranch AdmintesterActiveshreyank+914466332244shreyankm262@gmail.comUsertesterActivetest+919876543212test@gmail.comAdminTestActiveUTH PT+918553619133uthukpnt@gmail.comAdmin123456879TestersITActiveShallu+919874563211mshreyank1999@gmail.comAdmintesterActiveyy+919108770747shreyank@gmail.comAdmintesterActiveRows per page:251–6 of 6id(&quot;menu-&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible css-g3hgs1-MuiBackdrop-root-MuiModal-backdrop&quot;]UTH PTuthukpnt@gmail.com+918553619133User ManagementSign Out  UTHBank ProfileManage SubscriptionsConfirm To End Your Session? YesInvite UserInvite User BulkUser Name :​Email ID:​Branch :​​Mobile No :​+91​Designation :​CancelInvite UserMain Branch' or . = 'Dashboard Working Capital ReceivablesPayablesSettlementsReportsInsuranceTredsBeta Version 1.0​UTH Invite17 › User Management  Invite UserCurrent UsersRequestsCompany Invites Name Mobile Email ID Role Employee Id Designation Department Status  xx+919108330747shreyank@gmail.comBranch AdmintesterActiveshreyank+914466332244shreyankm262@gmail.comUsertesterActivetest+919876543212test@gmail.comAdminTestActiveUTH PT+918553619133uthukpnt@gmail.comAdmin123456879TestersITActiveShallu+919874563211mshreyank1999@gmail.comAdmintesterActiveyy+919108770747shreyank@gmail.comAdmintesterActiveRows per page:251–6 of 6id(&quot;menu-&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible css-g3hgs1-MuiBackdrop-root-MuiModal-backdrop&quot;]UTH PTuthukpnt@gmail.com+918553619133User ManagementSign Out  UTHBank ProfileManage SubscriptionsConfirm To End Your Session? YesInvite UserInvite User BulkUser Name :​Email ID:​Branch :​​Mobile No :​+91​Designation :​CancelInvite UserMain Branch')]</value>
+      <webElementGuid>a747db2f-24c4-4c80-8f8a-10ea0fd28c92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

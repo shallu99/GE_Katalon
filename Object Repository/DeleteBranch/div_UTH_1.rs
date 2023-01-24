@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UTH_1</name>
+   <tag></tag>
+   <elementGuidId>04680264-cd61-48dc-b6bb-2ab5a52cab46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-9.css-1l91i24-MuiGrid-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[1]/following::div[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9c5c9887-f1fa-475d-a870-b4d9bc04e378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9 css-1l91i24-MuiGrid-root</value>
+      <webElementGuid>468ec3b6-0660-4132-8517-dcc494c597c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UTH</value>
+      <webElementGuid>fcdb67c1-0469-4ecd-bcc7-7d95b32cc454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiPopover-root nav-dropdown MuiModal-root css-4kiuq3&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiPaper-root MuiMenu-paper MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-177ic5c&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]/div[@class=&quot;MuiBox-root css-1jpm9pd&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 css-dqpryt-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9 css-1l91i24-MuiGrid-root&quot;]</value>
+      <webElementGuid>b4c5b631-8503-4ca5-b00c-8466b2c541d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[1]/following::div[11]</value>
+      <webElementGuid>a2eb1ea9-f18e-4182-abf3-1d1c93a48d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹7,65,323.00'])[20]/following::div[22]</value>
+      <webElementGuid>5a8acc98-8934-4bd9-9b51-b9fabf12c443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Profile'])[1]/preceding::div[1]</value>
+      <webElementGuid>639e55af-7ffa-42ec-ad0f-a2b28e841556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Subscriptions'])[1]/preceding::div[1]</value>
+      <webElementGuid>74c16dd6-5025-470c-9f9e-d3ca6c219088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/ul/div/div/div[2]</value>
+      <webElementGuid>1ab2eed1-e610-4451-98f7-6f380916f04a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'UTH' or . = 'UTH')]</value>
+      <webElementGuid>68a1ef52-eaa0-4cd1-bdce-31174526bea9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
