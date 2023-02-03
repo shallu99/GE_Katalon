@@ -17,30 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+try {
+CustomKeywords.'giroPie.user.LoginwithUsernamePwd'()
 
-WebUI.navigateToUrl('https://staging.peppertree.ai/')
+CustomKeywords.'giroPie.user.NavigatetoUserManagementPage'()
 
-WebUI.maximizeWindow()
+CustomKeywords.'giroPie.user.ClickOnInviteUserButtonPresentOnUserMgntPage'()
 
-WebUI.setText(findTestObject('Object Repository/Page_NachPay/input_Sign Up_r0'), 'uthukpnt@gmail.com')
+CustomKeywords.'giroPie.user.EnterUserDetails'()
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_NachPay/input__MuiInputBase-input MuiOutlinedInput-_047092'), 
-    'QWaBvTLiu9ZovX8NOeYSWg==')
+'Verify whether the invite was sent successfully on Current user page'
+//WebUI.click(findTestObject('Object Repository/InviteUser/td_ZTest'))
 
-WebUI.click(findTestObject('Object Repository/Page_NachPay/div_Continue'))
-
-WebUI.click(findTestObject('Object Repository/Page_NachPay/img_Treds_navlogo'))
-
-//WebUI.click(findTestObject('Object Repository/Page_NachPay/div_UTH'))
-
-WebUI.click(findTestObject('Object Repository/Page_NachPay/div_User Management_MuiBackdrop-root MuiBac_c12ba8'))
-
-WebUI.click(findTestObject('Object Repository/Page_NachPay/img_Invite_MuiAvatar-img css-1hy9t21'))
-
-WebUI.click(findTestObject('Object Repository/Page_NachPay/path'))
-
-WebUI.click(findTestObject('Object Repository/Page_NachPay/button_Yes'))
-
-WebUI.closeBrowser()
-
+}
+finally {
+	WebUI.closeBrowser()
+}

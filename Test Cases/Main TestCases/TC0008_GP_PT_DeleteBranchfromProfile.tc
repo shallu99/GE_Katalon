@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC0008_GP_PT_DeleteBranchfromProfile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7582691-1689-4a87-9adc-bb583444159a</testCaseGuid>
+</TestCaseEntity>

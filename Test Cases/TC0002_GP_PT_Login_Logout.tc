@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Scn</description>
+   <name>TC0002_GP_PT_Login_Logout</name>
+   <tag>PT_User</tag>
+   <comment></comment>
+   <testCaseGuid>c30d61f5-148b-4c7f-a090-a41b865ee4df</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>28f3d999-666b-4168-a3a0-d2c38443d0db</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/PT_TestData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>28f3d999-666b-4168-a3a0-d2c38443d0db</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>0e45eb29-60ca-411e-a71c-22bf27e277d6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>28f3d999-666b-4168-a3a0-d2c38443d0db</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>a1e12a6d-c174-4455-bb92-d0a542486167</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>28f3d999-666b-4168-a3a0-d2c38443d0db</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>889bcd36-739c-45c3-9b05-e219a6ef8ef8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e45eb29-60ca-411e-a71c-22bf27e277d6</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a1e12a6d-c174-4455-bb92-d0a542486167</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>889bcd36-739c-45c3-9b05-e219a6ef8ef8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

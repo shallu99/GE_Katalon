@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_1</name>
+   <tag></tag>
+   <elementGuidId>5d9a7ffe-527a-405c-ba70-767f6d9679af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div[5]/div/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8dc84a4b-6562-454b-9ec5-ee0fd13e68a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-7x4rww-MuiTypography-root</value>
+      <webElementGuid>d96a8def-de2d-43d5-b873-650ca705dc40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>aaf58ae5-d05f-4c64-9736-2ca20d34163a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-hboir5&quot;]/div[@class=&quot;MuiBox-root css-1stk98t&quot;]/div[@class=&quot;MuiBox-root css-h8m1q6&quot;]/div[@class=&quot;tab-container-Box MuiBox-root css-ajghaq&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1ascli0-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-1scucok-MuiStack-root&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-1t90lzi-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-3 css-10voxkt-MuiGrid-root&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-7x4rww-MuiTypography-root&quot;]</value>
+      <webElementGuid>e42f10a0-615e-41bd-806f-bb0ba109b58c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div[5]/div/p[2]</value>
+      <webElementGuid>ac6d2908-2916-4bca-92dd-d1a4f303da77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite'])[1]/following::p[11]</value>
+      <webElementGuid>f86f5fbc-20c0-451c-be42-937c5fbf5865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UTH'])[1]/following::p[11]</value>
+      <webElementGuid>8d2a01d3-1254-457d-9429-81d4786a31c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAN'])[2]/preceding::p[6]</value>
+      <webElementGuid>e811bee3-f328-4ae7-9f2c-ba8dab761604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GSTIN'])[2]/preceding::p[6]</value>
+      <webElementGuid>b5b51e5a-a4be-40e4-bcb1-2c30eb2073d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>709b6b54-ecbe-4b0c-a531-991bc5c5d3a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/p[2]</value>
+      <webElementGuid>12b7da9b-4917-4d6e-9183-95ed2b93d8a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '1' or . = '1')]</value>
+      <webElementGuid>8af4eb24-d943-4574-84e4-eb52ca00c28b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

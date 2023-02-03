@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Invite_MuiAvatar-img css-1hy9t21</name>
+   <tag></tag>
+   <elementGuidId>e96690b9-c999-412b-8bf4-19b8c1b19c7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.MuiAvatar-img.css-1hy9t21</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/header/div/div[3]/div[3]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>19eb3943-9f30-4ef7-99e0-732ce94b0e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Remy Sharp</value>
+      <webElementGuid>083557b3-1c62-4fae-a561-819e81ce6353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://firebasestorage.googleapis.com/v0/b/nachpayptai-dev.appspot.com/o/CompanyLogo%2F1674218013CompanuLogo1674218013136Test1.png?alt=media&amp;token=d268b805-6425-40c9-a84d-7d92194cfc69</value>
+      <webElementGuid>c570d775-6a0d-4166-a247-0c566d5e8433</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAvatar-img css-1hy9t21</value>
+      <webElementGuid>28f3780c-4c7e-48a6-9689-8603d08e4881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;MuiBox-root css-hboir5&quot;]/div[@class=&quot;MuiBox-root css-1stk98t&quot;]/div[@class=&quot;navbar MuiBox-root css-1ck4cv3&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-1x7skt0&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-i6s8oy&quot;]/div[@class=&quot;MuiBox-root css-70qvj9&quot;]/div[@class=&quot;MuiAvatar-root MuiAvatar-circular css-85ur4f&quot;]/img[@class=&quot;MuiAvatar-img css-1hy9t21&quot;]</value>
+      <webElementGuid>d9be4a95-67c5-44a4-a421-fb7404ce9ab1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/header/div/div[3]/div[3]/img</value>
+      <webElementGuid>423b7511-ed65-4467-96fa-06a5b3431e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Remy Sharp']</value>
+      <webElementGuid>e9b7dc5e-187d-494a-a55c-3fa4e654d1ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/img</value>
+      <webElementGuid>a7edb956-304a-480f-a8f7-b48f631a731d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Remy Sharp' and @src = 'https://firebasestorage.googleapis.com/v0/b/nachpayptai-dev.appspot.com/o/CompanyLogo%2F1674218013CompanuLogo1674218013136Test1.png?alt=media&amp;token=d268b805-6425-40c9-a84d-7d92194cfc69']</value>
+      <webElementGuid>951ee835-4942-43bf-ac17-2c85305e8a3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

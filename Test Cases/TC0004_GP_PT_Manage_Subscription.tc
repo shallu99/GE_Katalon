@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case to verify manage subscription page and version</description>
+   <name>TC0004_GP_PT_Manage_Subscription</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dded06d2-7652-4adc-8eed-40a061597672</testCaseGuid>
+</TestCaseEntity>
