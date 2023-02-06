@@ -18,11 +18,4 @@
       <testCaseId>Test Cases/Main TestCases/TC0004_GP_PT_Manage_Subscription</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>4fc7f784-5204-4d80-96cf-5879b61ddafc</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main TestCases/TC0004_GP_PT_Manage_Subscription</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>
