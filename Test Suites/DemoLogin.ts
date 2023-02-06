@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TestSuite_MngTwice</name>
+   <name>DemoLogin</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>dfc13be3-abd0-4ce3-a554-c86b866ecc10</testSuiteGuid>
+   <testSuiteGuid>cac385af-97ce-4382-a824-f8afa6b452d6</testSuiteGuid>
    <testCaseLink>
-      <guid>9d1eaecb-ad85-4a4d-9442-843c3a8e794d</guid>
+      <guid>0f219826-d608-4276-b1e0-a3a54ed174e0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main TestCases/TC0004_GP_PT_Manage_Subscription</testCaseId>
+      <testCaseId>Test Cases/Common_TestCases/login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
