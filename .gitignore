@@ -14,3 +14,8 @@ build
 .classpath
 
 .project
+
+.cache\Keywords\excelExportAndFileIO__Excel
+.cache\Keywords\excelFeatures__features
+.cache\Keywords\excelFeatures__XLfeatures
+.cache\Keywords\giroPie__user
