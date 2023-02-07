@@ -58,8 +58,8 @@ public class user {
 
 		//Local variables
 		String url = 'https://staging.peppertree.ai/'
-		String username = 'uthukpnt@gmail.com'
-		String password = 'Peppertree@123'
+		String username = 'ajay@uth-uk.com'
+		String password = 'Tree@2023'
 
 		WebUI.callTestCase(findTestCase('Common_TestCases/TC0001_GP_PT_Login'), [('url') : url, ('username') : username, ('password') : password],
 		FailureHandling.STOP_ON_FAILURE)

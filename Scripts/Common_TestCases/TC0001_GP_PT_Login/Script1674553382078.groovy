@@ -21,6 +21,10 @@ username_obj = 'Object Repository/Page_NachPay/input_Sign Up_r0'
 password_obj = 'Object Repository/Page_NachPay/input__MuiInputBase-input MuiOutlinedInput-_047092'
 submit_btn_obj = 'Object Repository/Page_NachPay/div_Continue'
 
+//String url = "https://staging.peppertree.ai/"
+//String username = "ajay@uth-uk.com"
+//String password = "Tree@2023"
+
 CustomKeywords.'giroPie.user.lauchBrowser'(url)
 
 CustomKeywords.'giroPie.user.userLogin'(username_obj, username, password_obj, password, submit_btn_obj)

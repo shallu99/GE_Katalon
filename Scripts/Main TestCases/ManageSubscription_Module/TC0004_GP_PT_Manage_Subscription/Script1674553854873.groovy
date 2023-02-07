@@ -23,20 +23,30 @@ import org.openqa.selenium.WebDriver as WebDriver
 import org.openqa.selenium.WebElement as WebElement
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.WebElement;
+
+
 try {
 CustomKeywords.'giroPie.user.LoginwithUsernamePwd'()
 
 CustomKeywords.'giroPie.user.NavigatetoManageSubscriptionPage'()
 
-System.out.println(WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Mng_Subscription/text field with current version'), 
-        3))
+//System.out.println(WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Mng_Subscription/text field with current version'), 
+//        3))
 
-String cur_version2 = WebUI.getText(findTestObject('Object Repository/Page_Mng_Subscription/Version displayed on page'))
+WebDriver driver = DriverFactory.getWebDriver()
 
-String exp_version = 'Beta Version 1.0'
+String cur_version_EndofPage = driver.findElement(By.xpath("//*[@id='gsh0']/div/div[2]")).getText();
+//System.out.println(cur_version_EndofPage)
 
-if (cur_version2.equalsIgnoreCase(exp_version)) {
-    System.out.println("Current version of the application is "+cur_version2)
+
+WebElement searchTextBox = driver.findElement(By.xpath('//*[@value="'+cur_version_EndofPage+'"]'));
+String titleValue = searchTextBox.getAttribute("value");
+//System.out.println("Value of the attribute: " + titleValue);
+
+if (cur_version_EndofPage.equalsIgnoreCase(titleValue)) {
+    System.out.println("Current version of the application is "+titleValue)
 }
 }finally {
 CustomKeywords.'giroPie.user.closeBrowser'()

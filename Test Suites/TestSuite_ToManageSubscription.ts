@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TestSuite_MngTwice</name>
+   <name>TestSuite_ToManageSubscription</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -15,7 +15,7 @@
       <guid>9d1eaecb-ad85-4a4d-9442-843c3a8e794d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main TestCases/TC0004_GP_PT_Manage_Subscription</testCaseId>
+      <testCaseId>Test Cases/Main TestCases/ManageSubscription_Module/TC0004_GP_PT_Manage_Subscription</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -17,16 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://staging.peppertree.ai/login')
-
-WebUI.setText(findTestObject('Object Repository/demo/Page_GIROPie/input_Sign Up_r0'), 'ajay@uth-uk.com')
-
-WebUI.setText(findTestObject('Object Repository/demo/Page_GIROPie/input__MuiInputBase-input MuiOutlinedInput-_047092'), 
-    'Tree@2023')
-
-WebUI.click(findTestObject('Object Repository/demo/Page_GIROPie/div_Continue'))
-
-WebUI.closeBrowser()
-
